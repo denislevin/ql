@@ -1,2 +1,2 @@
-[*.{ql,qll,qlref,dbscheme,qhelp}]
+[*.{ql,qll,qlref,dbscheme,qhelp,js,ts,cpp,cs,java,xml,json}]
 end_of_line = lf
