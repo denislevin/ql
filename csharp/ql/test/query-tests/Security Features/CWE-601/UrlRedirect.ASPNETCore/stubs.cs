@@ -1,3 +1,6 @@
+// This file contains auto-generated code.
+// original-extractor-options: /r:netstandard.dll /r:${testdir}/../../../../../packages\Microsoft.AspNetCore.Mvc.2.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Mvc.dll /r:${testdir}/../../../../../packages\Microsoft.AspNetCore.Mvc.Core.2.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Mvc.Core.dll /r:${testdir}/../../../../../packages\Microsoft.AspNetCore.Http.Extensions.2.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Extensions.dll /r:${testdir}/../../../../../packages\Microsoft.AspNetCore.Http.Abstractions.2.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Abstractions.dll /r:${testdir}/../../../../../packages\Microsoft.AspNetCore.Mvc.Abstractions.2.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Mvc.Abstractions.dll /r:${testdir}/../../../../../packages\Microsoft.AspNetCore.Http.Features.2.1.0\lib\netstandard2.0\Microsoft.AspNetCore.Http.Features.dll /r:${testdir}/../../../../../packages\Microsoft.Extensions.Primitives.2.1.0\lib\netstandard2.0\Microsoft.Extensions.Primitives.dll /r:System.Private.Uri.dll
+
 namespace Microsoft
 {
 namespace AspNetCore
@@ -135,6 +138,7 @@ public interface IKeepTempDataResult : Microsoft.AspNetCore.Mvc.IActionResult
 }
 }
 }
+
 namespace Extensions
 {
 namespace Primitives
